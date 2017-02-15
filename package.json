@@ -11,8 +11,8 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "react-server-bike-share-example-module": "karlhorky/react-server-bike-share-example-module#master",
-    "@kununu/react-universal-scripts": "^0.8.4-prerelease.10",
+    "@karlhorky/react-server-bike-share-example-module": "karlhorky/react-server-bike-share-example-module#master",
+    "@kununu/react-universal-scripts": "^0.8.4-prerelease.11",
     "react": "^15.4.1",
     "react-dom": "15.4.1",
     "request-promise": "^4.1.1",
