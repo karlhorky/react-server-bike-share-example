@@ -1,4 +1,6 @@
 {
   "routesFile": "./routes.js",
+  "webpackClientConfig": "./config/webpack.client.config.js",
+  "webpackServerConfig": "./config/webpack.server.config.js",
   "customMiddlewarePath": "./api"
 }
